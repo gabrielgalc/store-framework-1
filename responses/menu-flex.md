@@ -48,6 +48,9 @@ De acordo com o que foi praticado na atividade anterior e o que foi aprendido so
 }
 ```
 
+Resultado esperado:
+![](https://appliancetheme.vteximg.com.br/arquivos/menu-flex.png)
+
 ----
 
 Se ainda tiver dúvida sobre como enviar sua resposta, você pode rever [aqui](https://github.com/{{ user.username }}/store-framework/issues/2).
